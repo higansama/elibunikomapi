@@ -11,7 +11,7 @@ config:
   ipAddress: ::1
   sessionName: admin_starter
   sessionKey: admin_starter_123
-  portHost: 8081
+  portHost: ${PORT}
   env: dev
   jwtName: jwt_admin_starter
   jwtKey: admin_starter_jwt
