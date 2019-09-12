@@ -1,7 +1,7 @@
 package controller
 
 import (
-	"elib_unikom/model"
+	"elibunikomapi/model"
 	"net/http"
 
 	"github.com/bandros/framework"

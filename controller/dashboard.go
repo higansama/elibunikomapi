@@ -1,7 +1,7 @@
 package controller
 
 import (
-	"elib_unikom/lib"
+	"elibunikomapi/lib"
 
 	"github.com/gin-gonic/gin"
 )
