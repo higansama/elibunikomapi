@@ -1,7 +1,7 @@
 package main
 
 import (
-	"elib_unikom/router"
+	"elibunikomapi/router"
 
 	"github.com/bandros/framework"
 )
